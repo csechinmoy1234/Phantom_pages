@@ -18,9 +18,9 @@ export default function Home() {
   return (
     <div>
       <div className='flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto'>
-        <h1 className='text-3xl font-bold lg:text-6xl'>Blogging Beyond Boundaries</h1>
+        <h1 className='text-3xl font-bold lg:text-6xl'>Blogging without limits</h1>
         <p className='text-gray-500 text-xs sm:text-sm'>
-          Unleash Your Voice, Ignite Your Passion
+        Share Your Story, Fuel Your Dreams
         </p>
         <Link
           to='/search'
